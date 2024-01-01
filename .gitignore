@@ -1,0 +1,79 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+/build/
+/generated/
+.vscode/
+
+# Android specific
+*.iml
+/.gradle/
+/build/
+/captures/
+/local.properties
+
+# iOS specific
+*.xcworkspace
+/ios/Pods/
+/ios/Flutter/Flutter.framework/
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/App.framework/
+/ios/Flutter/Flutter.app/
+
+# macOS specific
+/Flutter/ephemeral
+.DS_Store
+
+
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+# Windows specific
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+*.dll
+*.exe
+
+# IntelliJ/Android Studio specific
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Visual Studio Code specific
+.vscode/
+*.code-workspace
+
+# Android Studio
+/*/local.properties
+/*/out
+/*/*/build
+/*/*/production
+/*/*/gradle-wrapper.jar
+!/*/gradle-wrapper.jar
+/build/
+*.lib/
+.c9/
+
+# Gradle
+.gradle/
+.gradle/
+build/
+
